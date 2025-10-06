@@ -1,0 +1,13 @@
+[project]
+name = "dungeon_project"
+version = "0.1.0"
+description = "Generador de dungeons con exploración y combate"
+readme = "README.md" 
+requires-python = ">=3.13"
+dependencies = [
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest"
+]
